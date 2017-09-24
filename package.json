@@ -1,0 +1,23 @@
+{
+  "name": "hyper-bliss",
+  "version": "0.1.0",
+  "description": "Happy dark theme for Hyper",
+  "license": "MIT",
+  "repository": "semonje/hyper-bliss",
+  "author": {
+    "name": "Simon Dagfinrud",
+    "url": "simondag.no",
+    "email": "semonje@gmail.com"
+  },
+  "keywords": [
+    "simple",
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "theme",
+    "hyperterm"
+  ],
+  "files": [
+    "index.js"
+  ]
+}
